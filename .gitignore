@@ -171,6 +171,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# PyCharm folder
 .idea
 
 # General files that should be ignored
